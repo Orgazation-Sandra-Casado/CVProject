@@ -12,7 +12,7 @@ This project is using JIRA tool for project management and defect traking follow
 
 ## DEMO VIDEO
 This project includes a Demo Video of each functionallity developed.
-* [DEMO VIDEOS](/demovideos/)
+* [DEMO VIDEOS](/demo/)
 ## TEST STRATEGY
 This project adopts BDD Methodology for testing.
 
